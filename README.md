@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HR Analytics Dashboard
 ### Employee Attrition & Workforce Intelligence
 **Built by Rithika N | Data Analyst | Chennai**
@@ -163,3 +164,6 @@ Open MySQL Workbench and run these files in order:
 - Email: rithirenu14@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rithika-n-a70753233/
 - Role: Data Analyst | AI Data Analyst | Chennai
+=======
+# hr-analytics-project
+>>>>>>> 6f9e5fbb8cbc54520aaf4c283d8ec4c5a23d6806
